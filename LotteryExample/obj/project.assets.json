@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\autop\\source\\repos\\TypeSpider\\TypeSpider\\TypeSpider.csproj",
-      "projectName": "TypeSpider",
-      "projectPath": "C:\\Users\\autop\\source\\repos\\TypeSpider\\TypeSpider\\TypeSpider.csproj",
+      "projectUniqueName": "C:\\Users\\autop\\source\\repos\\TypeSpider\\LotteryExample\\LotteryExample.csproj",
+      "projectName": "LotteryExample",
+      "projectPath": "C:\\Users\\autop\\source\\repos\\TypeSpider\\LotteryExample\\LotteryExample.csproj",
       "packagesPath": "C:\\Users\\autop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\autop\\source\\repos\\TypeSpider\\TypeSpider\\obj\\",
+      "outputPath": "C:\\Users\\autop\\source\\repos\\TypeSpider\\LotteryExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

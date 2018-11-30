@@ -1,0 +1,11 @@
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\bin\Debug\netcoreapp2.1\LotteryExample.deps.json
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\bin\Debug\netcoreapp2.1\LotteryExample.runtimeconfig.json
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\bin\Debug\netcoreapp2.1\LotteryExample.runtimeconfig.dev.json
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\bin\Debug\netcoreapp2.1\LotteryExample.dll
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\bin\Debug\netcoreapp2.1\LotteryExample.pdb
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\obj\Debug\netcoreapp2.1\LotteryExample.csprojAssemblyReference.cache
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\obj\Debug\netcoreapp2.1\LotteryExample.csproj.CoreCompileInputs.cache
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\obj\Debug\netcoreapp2.1\LotteryExample.AssemblyInfoInputs.cache
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\obj\Debug\netcoreapp2.1\LotteryExample.AssemblyInfo.cs
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\obj\Debug\netcoreapp2.1\LotteryExample.dll
+C:\Users\autop\source\repos\TypeSpider\LotteryExample\obj\Debug\netcoreapp2.1\LotteryExample.pdb
