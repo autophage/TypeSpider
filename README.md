@@ -1,1 +1,1 @@
-"# TypeSpider" 
+# TypeSpider
